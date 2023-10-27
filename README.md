@@ -4,7 +4,7 @@
 
 Бот работает с медиа типа: text, photo, video, document, sticker, animation, voice
 
-[![](example.mp4 "Пример:")](example.mp4)
+[![](example.gif "Пример:")](example.gif)
 
 ## **Устоновка зависемостей**
 
